@@ -1,18 +1,16 @@
 ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Rajat Rathore</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate software and research engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZ5wCYtlk5Vbo0_vSqfEfiM__pnJ0aBe_Og&usqp=CAU">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajatrathore123-github&label=Profile%20views&color=0e75b6&style=flat" alt="rajatrathore123-github" /> </p>
 
 
-- 🔭 I’m currently working on **my problem solving skills**
+- 🔭 I’m currently working on **Technical AI Safety more specifically on AI Alignment**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 👯 I’m looking to collaborate on **Research and Open Source Projects**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
-- 💬 Ask me about **Full Stack Web Development**
+- 💬 Ask me about **Software Engineering, Technical AI Safety, Venture Capital**
 
 - 📫 How to reach me **rajat12350iam@gmail.com**
 
